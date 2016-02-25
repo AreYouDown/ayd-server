@@ -1,0 +1,2 @@
+# ayd-server
+AreYouDown server
