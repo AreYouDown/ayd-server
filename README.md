@@ -1,3 +1,3 @@
-AreYouDown server [![Build Status](https://travis-ci.org/AreYouDown/ayd-server.svg?branch=master)](https://travis-ci.org/AreYouDown/ayd-server)  [![Join the chat at https://gitter.im/sahat/](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AreYouDown?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+AreYouDown server [![Build Status](https://travis-ci.org/AreYouDown/ayd-server.svg?branch=master)](https://travis-ci.org/AreYouDown/ayd-server)  [![Join the chat at https://gitter.im/sahat/](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AreYouDown?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![HitCount](https://hitt.herokuapp.com/AreYouDown/ayd-server.svg)](https://github.com/AreYouDown/ayd-server)
 =======================
 
